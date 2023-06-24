@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/superhero_test/static/css/main.117646f9.css",
+    "main.js": "/superhero_test/static/js/main.8b933be6.js",
+    "static/media/icons8-iron-man.svg": "/superhero_test/static/media/icons8-iron-man.942328239cc1087cca414f3b4b42b733.svg",
+    "index.html": "/superhero_test/index.html",
+    "main.117646f9.css.map": "/superhero_test/static/css/main.117646f9.css.map",
+    "main.8b933be6.js.map": "/superhero_test/static/js/main.8b933be6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.117646f9.css",
+    "static/js/main.8b933be6.js"
+  ]
+}
