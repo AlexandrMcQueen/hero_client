@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hero_client/static/css/main.117646f9.css",
-    "main.js": "/hero_client/static/js/main.e50a1f48.js",
+    "main.js": "/hero_client/static/js/main.bdd6385e.js",
     "static/media/icons8-iron-man.svg": "/hero_client/static/media/icons8-iron-man.942328239cc1087cca414f3b4b42b733.svg",
     "index.html": "/hero_client/index.html",
     "main.117646f9.css.map": "/hero_client/static/css/main.117646f9.css.map",
-    "main.e50a1f48.js.map": "/hero_client/static/js/main.e50a1f48.js.map"
+    "main.bdd6385e.js.map": "/hero_client/static/js/main.bdd6385e.js.map"
   },
   "entrypoints": [
     "static/css/main.117646f9.css",
-    "static/js/main.e50a1f48.js"
+    "static/js/main.bdd6385e.js"
   ]
 }
